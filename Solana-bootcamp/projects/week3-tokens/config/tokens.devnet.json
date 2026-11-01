@@ -1,0 +1,10 @@
+{
+  "cluster": "devnet",
+  "tokens": {
+    "token1": {
+      "mint": "ErHT2A31PyTmLdo3TsyxsEJWrsYGfUXdMgUHEMz37ovo",
+      "ownerTokenAccount": "2DiznHwM6TNTtU2xFAyvcNGgLLYTgU1usvszMofZKEg2",
+      "decimals": 9
+    }
+  }
+}

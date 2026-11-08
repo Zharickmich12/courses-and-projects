@@ -1,0 +1,10 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@anchor-lang/core": "^1.2.2",
+    "@solana/web3.js": "1"
+  }
+}

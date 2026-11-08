@@ -1,0 +1,77 @@
+body {
+  margin: 0;
+  font-family: system-ui, sans-serif;
+  background: #0b1220;
+  color: #e8edf7;
+}
+
+.app {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 32px 20px;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 24px;
+}
+
+.card {
+  background: #131c30;
+  border: 1px solid #243152;
+  border-radius: 12px;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.row {
+  display: flex;
+  gap: 12px;
+  flex-wrap: wrap;
+  margin-top: 12px;
+}
+
+label {
+  display: block;
+  font-size: 13px;
+  color: #9fb0d0;
+  margin-bottom: 4px;
+}
+
+input {
+  width: 100%;
+  box-sizing: border-box;
+  padding: 8px 10px;
+  border-radius: 8px;
+  border: 1px solid #243152;
+  background: #0b1220;
+  color: #e8edf7;
+}
+
+button.action {
+  padding: 9px 16px;
+  border-radius: 8px;
+  border: none;
+  background: #2f6fed;
+  color: white;
+  cursor: pointer;
+}
+
+button.action:disabled {
+  opacity: 0.4;
+  cursor: not-allowed;
+}
+
+.status {
+  padding: 12px 14px;
+  border-radius: 8px;
+  font-size: 14px;
+  word-break: break-all;
+}
+.status.pending { background: #3a3414; }
+.status.confirmed { background: #12351f; }
+.status.error { background: #3d1717; }
+
+.muted { color: #9fb0d0; font-size: 13px; }

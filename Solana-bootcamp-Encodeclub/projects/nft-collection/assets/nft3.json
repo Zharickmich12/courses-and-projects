@@ -1,0 +1,29 @@
+{
+  "name": "Bootcamp #3",
+  "symbol": "BOOT",
+  "description": "Third member of the bootcamp collection.",
+  "image": "https://raw.githubusercontent.com/Zharickmich12/courses-and-projects/main/Solana-bootcamp-Encodeclub/projects/nft-collection/assets/nft3.png",
+  "attributes": [
+    {
+      "trait_type": "Shape",
+      "value": "Diamond"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/Zharickmich12/courses-and-projects/main/Solana-bootcamp-Encodeclub/projects/nft-collection/assets/nft3.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}

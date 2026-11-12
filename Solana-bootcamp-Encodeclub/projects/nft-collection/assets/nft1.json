@@ -1,0 +1,29 @@
+{
+  "name": "Bootcamp #1",
+  "symbol": "BOOT",
+  "description": "First member of the bootcamp collection.",
+  "image": "https://raw.githubusercontent.com/Zharickmich12/courses-and-projects/main/Solana-bootcamp-Encodeclub/projects/nft-collection/assets/nft1.png",
+  "attributes": [
+    {
+      "trait_type": "Shape",
+      "value": "Circle"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/Zharickmich12/courses-and-projects/main/Solana-bootcamp-Encodeclub/projects/nft-collection/assets/nft1.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}

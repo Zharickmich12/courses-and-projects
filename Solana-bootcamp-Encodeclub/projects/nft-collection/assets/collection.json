@@ -1,0 +1,21 @@
+{
+  "name": "Bootcamp Collection",
+  "symbol": "BOOT",
+  "description": "Parent collection for the bootcamp NFT exercise.",
+  "image": "https://raw.githubusercontent.com/Zharickmich12/courses-and-projects/main/Solana-bootcamp-Encodeclub/projects/nft-collection/assets/collection.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Collection"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/Zharickmich12/courses-and-projects/main/Solana-bootcamp-Encodeclub/projects/nft-collection/assets/collection.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
